@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/Layout.tsx","./src/components/ui.tsx","./src/context/AuthContext.tsx","./src/data/mockData.ts","./src/hooks/useFetch.ts","./src/lib/utils.ts","./src/pages/Dashboards.tsx","./src/pages/Login.tsx","./src/pages/WorkspacePages.tsx","./src/services/api.ts","./src/types/index.ts"],"errors":true,"version":"5.9.3"}
